@@ -159,7 +159,7 @@ void exit(){
 "    *   * *   *      *     * *   *\n"
 "     * *   * *       *     *   * *\n"
 "      *     *      * * *   *     *\n\n");
-    print("Thanks, the fucking no balls man has been straightened!");
+    print("Thanks, no balls man has been straightened!");
     print("\n",3);
     exit(0);
 }
